@@ -1,0 +1,5 @@
+# Top level .gitignore ignores everything in .idea folder.
+# Here we can "opt something into version control" using .gitignore exceptions.
+!codeStyles
+!icon.png
+!icon_dark.png
